@@ -41,25 +41,24 @@ Always learning, always curious.
 - 🧠 Emotional Intelligence
 
 ---
+## 📌 What I'm Up To
 
-## 🚀 Notable Projects
+- 📖 **Currently Learning:** Data Structures & Algorithms to strengthen problem-solving.
+- 🛠️ **Working On:** Building a Grocery Store Management System using Python and SQLite.
+- 🧠 **Focus Area:** Getting strong in React and FastAPI for full-stack development.
+- 🚀 **Next Steps:** Start building mini full-stack apps and participate in coding challenges.
 
-### 🅿️ Smart Parking System  
-A web-based solution for real-time parking space management. Features include user authentication, booking, and slot monitoring using **FastAPI** and **Firebase**.
-
-### 🌾 AgroConnect  
-A contract-based farming platform developed using **Flutter** and **Firebase** to connect farmers directly with buyers. Includes product listings, real-time updates, and user-friendly UI.
-
-### 🚌 Public Transportation Insights (Power BI)  
-Analyzed city-wide public transit data (trips, routes, passengers) to create interactive dashboards, identify trends, and optimize transport planning.
-
-### 🌐 Portfolio Website  
-A personal, responsive portfolio built with **HTML**, **CSS**, and **JavaScript** to showcase my projects, skills, and journey as a tech enthusiast.
 
 ---
-
 ## 📫 Let's Connect
 
-Feel free to reach out or explore more of my work:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?)]()
+Got a project idea or just love building cool things?  
+I'm always excited to team up, share ideas, and learn together.
+
+![Let's Collaborate]"C:\Users\steve\OneDrive\Documents\git img.png"
+
+
+- 📬 [Email](sriramdhayalan04@gmail.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/sriram-d-b8a636257)  
+  
+
