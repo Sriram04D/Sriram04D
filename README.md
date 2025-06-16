@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/cover.png" alt="Sriram D Cover" width="700"/>
+</p>
 
 👨‍💻 **Tech enthusiast** who loves building cool stuff and solving tricky problems.  
 Always learning, always curious.
@@ -51,6 +54,11 @@ Always learning, always curious.
 
 ---
 ## 📫 Let's Connect
+
+<p align="center">
+  <img src="assets/gitimg.png" alt="Sriram D Cover" width="500"/>
+</p>
+
 
 Got a project idea or just love building cool things?  
 I'm always excited to team up, share ideas, and learn together.
