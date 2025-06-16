@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cover.png" alt="Sriram D Cover" width="700"/>
+  <img src="assets/cover.png" alt="Sriram D Cover" width="800"/>
 </p>
 
 👨‍💻 **Tech enthusiast** who loves building cool stuff and solving tricky problems.  
