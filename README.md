@@ -55,9 +55,6 @@ Always learning, always curious.
 Got a project idea or just love building cool things?  
 I'm always excited to team up, share ideas, and learn together.
 
-![Let's Collaborate]"C:\Users\steve\OneDrive\Documents\git img.png"
-
-
 - 📬 [Email](sriramdhayalan04@gmail.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/sriram-d-b8a636257)  
   
